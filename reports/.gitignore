@@ -1,2 +1,4 @@
 reports/metrics.json
 reports/experiment_info.json
+/experiment_info.json
+/metrics.json
